@@ -19,7 +19,7 @@ class Application(tk.Frame):
         """ Method to create the widgets."""
         self.passkeyArea = tk.Label(self, text="Your key here")
         # Make the key big and readable.
-        self.passkeyArea.config(font=("Helvetica", 25))
+        self.passkeyArea.config(font=("Consolas", 25))
         # 'pady(topPadding, bottomPadding)' to add a little space between button and passkeyArea
         self.passkeyArea.pack(side="top", pady=(10, 100))
 
