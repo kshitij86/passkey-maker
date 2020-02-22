@@ -1,3 +1,3 @@
 # passkey-maker
 
-<p> **A simple randomized key generator.** </p>
+<p>A simple randomized key generator. </p>
